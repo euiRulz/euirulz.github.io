@@ -214,22 +214,26 @@ form,table,tr,td
 
 input[type="button"],input[type="submit"]
 {
- display: inline-block !important;
-  padding: 6px 12px !important;
-  margin-bottom: 0 !important;
-  font-size: 14px !important;
-  font-weight: normal !important;
-  line-height: 1.428571429 !important;
-  text-align: center !important;
-  white-space: nowrap !important;
-  vertical-align: middle !important;
-  cursor: pointer !important;
-  background-image: none !important;
-  border: 1px solid transparent !important;
-  border-radius: 4px !important;
-  -webkit-user-select: none !important;
-     -moz-user-select: none !important;
-      -ms-user-select: none !important;
-       -o-user-select: none !important;
-          user-select: none !important;
+  color: #ffffff;
+  background-color: #5E5A80;
+  border-color: #423158;
+  margin: 1px;
+  display: inline-block;
+  padding: 8px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.428571429;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+       -o-user-select: none;
+          user-select: none;
 }
