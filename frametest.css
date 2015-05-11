@@ -238,8 +238,9 @@ input[type="button"],input[type="submit"]
 }
 
 .main_wrap{
-  background-color:rgb(163, 91, 211);
+  background-color:#DBDADB;
   box-sizing:border-box;
+  border-radius: 5px;
   padding: 10px; 
 }
 
@@ -249,4 +250,5 @@ input[type="button"],input[type="submit"]
   padding:10px;
   font-size: 20px;
   font-weight: bold;
+  border-radius: 5px;
 }
