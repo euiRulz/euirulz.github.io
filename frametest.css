@@ -1,5 +1,6 @@
 body
 {
+  margin:0px ;
   padding:0;
   background-color: #FFFFFF;
 }
@@ -241,6 +242,7 @@ input[type="button"],input[type="submit"]
   box-sizing:border-box;
   border-radius: 5px;
   padding: 10px; 
+  margin-left:0px;
 }
 
 #header{
